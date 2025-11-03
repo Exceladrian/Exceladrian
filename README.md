@@ -18,8 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning and Statistics
 - ⚡ Hai Sher
 
-
-
-
-![testing gif ](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdsM3h2OWUzajA2OWZ0NG9ndmdrMGhrN2RsZ25tMW1scDRpbjE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif)
+![testing gif ](asset/giphy.gif)
 
