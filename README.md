@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello There 👋
 
 <!--
 **Exceladrian/Exceladrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [**Paragon-corp**](https://www.paragon-innovation.com/) 🙌
+- 🌱 I’m currently learning Machine Learning and Statistics
+- ⚡ Hai Sher
+
+
+
+
+![test](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdsM3h2OWUzajA2OWZ0NG9ndmdrMGhrN2RsZ25tMW1scDRpbjE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif)
