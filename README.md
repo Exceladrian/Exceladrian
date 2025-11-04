@@ -36,7 +36,8 @@ Welcome to my github profile, kinda working some update on profile and try to re
 
 
 ### Connect With Me
-![https://instagram.com/exceladrn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![https://www.linkedin.com/in/adrianoexcel/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/exceladrn)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianoexcel/)
+
 
 
 ![alt text](asset/iamge.jpg)
